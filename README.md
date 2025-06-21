@@ -1,6 +1,6 @@
 # CyberNews-Scraper
 
-Perfect — thanks for the clarification. Here’s the updated and final README.md, now with accurate dependency breakdowns based on script functionality (CSV vs PDF):
+Perfect — thanks for the clarification. Here’s the updated and final README.md, now with accurate dependency breakdowns based on script functionality (Excel vs PDF):
 
 ⸻
 
