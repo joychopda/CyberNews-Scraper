@@ -1,10 +1,4 @@
-# CyberNews-Scraper
-
-Perfect — thanks for the clarification. Here’s the updated and final README.md, now with accurate dependency breakdowns based on script functionality (Excel vs PDF):
-
-⸻
-
-📰 News Scraper
+📰 CyberNews-Scraper
 
 This tool scrapes headlines from Google News RSS feeds for any search keyword you enter. Outputs can be saved as a CSV or exported as a formatted PDF using Jinja2 and WeasyPrint.
 
