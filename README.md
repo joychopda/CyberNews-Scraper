@@ -59,18 +59,6 @@ Both scripts will prompt you for a search keyword.
 
 ⸻
 
-📄 Sample Output
-
-Excel (cyber_news.xlsx):
-
-Title	Link	Source	Published
-Major Cyberattack Hits	https://news.example.com	Wired	2025-06-20T08:00:00Z
-
-PDF (cyber_news.pdf):
-Clean, readable format with articles sorted and styled via HTML/CSS (Jinja2 + WeasyPrint).
-
-⸻
-
 🔍 Use Cases
 	•	Threat intel snapshotting
 	•	Daily news digests for cybersecurity teams
@@ -82,6 +70,6 @@ Clean, readable format with articles sorted and styled via HTML/CSS (Jinja2 + We
 
 ⚠️ Disclaimer
 	•	Google News RSS is unofficial and may rate-limit or block aggressive scraping.
-	•	For educational and non-commercial use. Always respect robots.txt and ToS.
+	•	For educational and non-commercial use.
 
 
